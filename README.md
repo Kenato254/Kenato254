@@ -1,4 +1,5 @@
-### Hi there 👋 ![Visitor Count](https://profile-counter.glitch.me/{Kenato254}/count.svg)
+### Hi there 👋 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 - 👋 Hi, I’m @Kenato254
 - 👀 I’m interested in Blockchain & Web3 and Django
 - 🌱 I’m currently learning Blockchain and Distributed Systems @ABC
