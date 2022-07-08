@@ -1,4 +1,4 @@
-### Hi there 👋 ![Visitor Count](https://profile-counter.glitch.me/{@Kenato254}/count.svg)
+### Hi there 👋 ![Visitor Count](https://profile-counter.glitch.me/{Kenato254}/count.svg)
 - 👋 Hi, I’m @Kenato254
 - 👀 I’m interested in Blockchain & Web3 and Django
 - 🌱 I’m currently learning Blockchain and Distributed Systems @ABC
