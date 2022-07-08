@@ -1,5 +1,4 @@
-### Hi there 👋 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=@Kenato254&color=blue&style=plastic)
 - 👋 Hi, I’m @Kenato254
 - 👀 I’m interested in Blockchain & Web3 and Django
 - 🌱 I’m currently learning Blockchain and Distributed Systems @ABC
