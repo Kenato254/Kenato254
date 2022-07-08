@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Blockchain and Distributed Systems @ABC
 - 👯 I’m looking to collaborate on Blockchain & Web3 and Django
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 <!--
 **Kenato254/Kenato254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
