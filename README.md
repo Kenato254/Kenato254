@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Kenato254
 - 👀 I’m interested in Blockchain & Web3 and Django
 - 🌱 I’m currently learning Blockchain and Distributed Systems @ABC
-- 👯 I’m looking to collaborate on Blockchain & Web3 and Django
+- 👯 I’m looking to collaborate on Blockchain & Web3 or Django
 - ![](https://komarev.com/ghpvc/?username=Kenato254&color=blue&style=plastic)
 <!--
 **Kenato254/Kenato254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
