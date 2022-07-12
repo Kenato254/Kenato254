@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I’m @Kenato254
+- 👋 I’m @Kennedy
 - 👀 I’m interested in Blockchain & Web3 and Django
 - 🌱 I’m currently learning Blockchain and Distributed Systems @ Africa Blockchain Center
 - 👯 I’m looking to collaborate on Blockchain & Web3 or Django
