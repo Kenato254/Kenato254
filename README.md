@@ -1,16 +1,3 @@
-<!--
-<h2 align="center">
-  Welcome to Kennedy Gitonga's GitHub World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/kennedygitonga"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Software%20Developer;Blockchain%20Enthusiast;Python%20Backend%20Dev;Constant%20Learner&center=true&width=380&height=45"></a>
-</p>
--->
-
 <!-- Intro -->
 <h3 align="center">
   <samp>Hey there, I'm
@@ -66,16 +53,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) 
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
-
-<br/>
-
-## Experience
-
-- Blockchain Backend Developer @ Africa Blockchain Center
-- Python Backend Developer @ Freelancer.com
-- Software Developer @ Tribus - TSG Centum Investments
 
 <br/>
 
